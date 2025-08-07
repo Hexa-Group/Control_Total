@@ -8,7 +8,7 @@
 </head>
 <body>
 <!-- partial:index.partial.html -->
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="es">
 
 <head>
